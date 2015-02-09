@@ -1,0 +1,16 @@
+CS193P Notes
+
+- For some reason, I decided to implement the History UILabel as a vertical label, one element per line.  Now I can see week 2's course work, I know this wasn't the intended solution, nor even a very good one.  In partic, it meant I had to do some funky stuff with truncating values to stop them wrapping... so, my bad design choice led to questionable code, of course.  I am not going to change it here though, as I don't want to get behind - and anyway, I am here to learn & bound to make a bazillion more interesting mistakes than this in the coming weeks!
+
+- Changing the displayValue to an Optional value (the way I've done) feels completely messy.  It was the last thing I did & it works, so I'm moving on.  He implements a better way for this in the next video anyway, so I shall be keen to improve this.
+
+- The +/- button needs attention.  Will give it more in next week's task.
+
+- Spent ages trying to get the UILabel to vertically align the text to the top... but no joy.
+
+
+
+These notes are being added post-event.  I guess they're kinda excuses in a way -- yep, crap code may live here!
+
+Any feedback / code improvement tips very, very much welcome :)
+
